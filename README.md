@@ -1,5 +1,6 @@
 # Semi-Supervised-HAR-e4-Wristband
 This is the source code for "An End-to-end Methodology for Semi-Supervised HAR Data Collection, Labeling, and Classification Using a Wristband" that will be presented at IE2022 WISHWell workshop.
+
 Authors:  [Lee B. Hinkle](https://userweb.cs.txstate.edu/~lbh31/) and Gentry Atkinson, [IMICS Lab](https://imics.wp.txstate.edu/), Texas State University, 2022
 
 We hope you find this code and the [TWristAR dataset](https://zenodo.org/record/5911808) useful and would appreciate your citation if used.

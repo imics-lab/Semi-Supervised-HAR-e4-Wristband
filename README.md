@@ -5,7 +5,7 @@ Authors:  [Lee B. Hinkle](https://userweb.cs.txstate.edu/~lbh31/) and Gentry Atk
 
 We hope you find this code and the [TWristAR dataset](https://zenodo.org/record/5911808) useful and would appreciate your citation if used.
 
-You can also view this [code in colab] https://colab.research.google.com/drive/1yObSZMaSni-YvJ_YsS7uGaMnPWGJbKvK?usp=sharing
+You can also view this [code in colab](https://colab.research.google.com/drive/1yObSZMaSni-YvJ_YsS7uGaMnPWGJbKvK?usp=sharing)
 ```
 @dataset{lee_b_hinkle_2022_5911808,
   author       = {Lee B. Hinkle and
